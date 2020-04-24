@@ -5,5 +5,6 @@ public class GitPrac {
 		System.out.println("hello");
 		System.out.println("World");
 		System.out.println("thx");
+		// Àß ¿Ã¶ó°¬³ª?
 	}
 }
